@@ -1,0 +1,48 @@
+
+.text , .blog1 {
+    color: rgb(49, 88, 124);
+    font-size:20px;
+    text-align: center;
+}
+.pr1 {
+       color: rgba(0, 255, 128, 0.966);
+       background-color: black;
+       font-size: 20px;
+       text-align: center;
+       box-shadow: 10px cadetblue;
+       border-radius: 4px;
+       padding: 5%;
+}
+.green{
+    color: rgb(27, 91, 187);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blog1{
+background-color: blanchedalmond;
+border-radius: 8px;
+border: 10px solid ;
+border-width: 5px;
+margin: 10px;
+padding: 5px;
+}
+.form{
+    background-image: url(../photo/background-2203989.jpg);
+    padding: 20px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+}
+h2{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+input, textarea {
+    border-radius: 4px;
+    display: block;
+    text-align: center;
+}
